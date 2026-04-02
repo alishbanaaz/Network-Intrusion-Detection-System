@@ -1,1 +1,9 @@
+numpy & pandas: For handling the NSL-KDD datasets and mathematical arrays.
 
+matplotlib & seaborn: For generating the confusion matrices and accuracy plots you'll show on GitHub.
+
+scikit-learn: This covers all your classical models (Random Forest, SVM, KNN, Decision Trees) and preprocessing tools (StandardScaler, LabelEncoder).
+
+tensorflow: Essential for building and running your LSTM and Sequential neural network layers.
+
+scipy: Used for the statistical operations and the stats functions in your code.
